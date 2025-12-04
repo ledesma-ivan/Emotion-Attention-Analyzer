@@ -1,4 +1,4 @@
----
+
 # Análisis de Emociones y Atención
 
 Sistema de visión por computadora que detecta rostros, analiza emociones y evalúa el nivel de atención tanto en tiempo real como en procesamiento no en tiempo real, utilizando Python y herramientas de machine learning.
@@ -74,3 +74,4 @@ python main.py
 Proyecto de uso académico. Puede ser modificado o ampliado libremente.
 
 ---
+
